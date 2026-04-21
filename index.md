@@ -15,6 +15,7 @@ We have two classes for Caddo Parish public school students to choose from:
 > The animation class is an intro to the basic principles and concepts of animation and technical training in Adobe After Effects. Students have the opportunity to earn a Visual Effects & Motion Graphics Adobe Professional Certificate.
 
 Talk to your Caddo Parish high school counselor about taking classes at the Career Center.
+
 ----------------------------
 
    <html>
