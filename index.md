@@ -6,13 +6,13 @@ layout: default
 Welcome to the website for the **Caddo Career And Technology Center's Digital Media Classroom.**
 We have two classes for Caddo Parish public school students to choose from:
 
-## Digital Media: Video Editing
-
-In the video editing class, students learn the basics of filmmaking with a focus on editing with Adobe Premiere Pro. Students will have the opportunity to earn a Digital Video Adobe Professional Certificate.
-
-## Digital Media: Animation
-
-The animation class is an intro to the basic principles and concepts of animation and technical training in Adobe After Effects. Students have the opportunity to earn a Visual Effects & Motion Graphics Adobe Professional Certificate.
+> ## Digital Media: Video Editing
+>
+> In the video editing class, students learn the basics of filmmaking with a focus on editing with Adobe Premiere Pro. Students will have the opportunity to earn a Digital Video Adobe Professional Certificate.
+>
+> ## Digital Media: Animation
+>
+> The animation class is an intro to the basic principles and concepts of animation and technical training in Adobe After Effects. Students have the opportunity to earn a Visual Effects & Motion Graphics Adobe Professional Certificate.
 
 ----------------------------
 
