@@ -5,8 +5,6 @@ layout: default
 
 Welcome to the website for the **Caddo Career And Technology Center's Digital Media Classroom.**
 We have two classes for Caddo Parish public school students to choose from:
-* Digital Media: Video Editing
-* Digital Media: Animation
 
 ## Digital Media: Video Editing
 
