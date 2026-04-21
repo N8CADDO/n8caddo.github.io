@@ -16,6 +16,8 @@ In the video editing class, students learn the basics of filmmaking with a focus
 
 The animation class is an intro to the basic principles and concepts of animation and technical training in Adobe After Effects. Students have the opportunity to earn a Visual Effects & Motion Graphics Adobe Professional Certificate.
 
+----------------------------
+
    <html>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/QOZxyxi6lNk?si=Q5gEQZDJd9yIxKaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </html>
